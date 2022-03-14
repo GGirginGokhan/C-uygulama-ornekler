@@ -1,1 +1,1 @@
-# C-uygulama-ornekler
+C programlama örnek uygulamalar
